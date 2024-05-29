@@ -1,0 +1,17 @@
+{
+    "name": "taufiq/libhallo",
+    "description": "pembuatan library sederhana",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "taufiq1004",
+            "email": "taufiqurrahman101010@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"taufiq/libhallo" : "src"}
+    },
+    "require": {}
+}
